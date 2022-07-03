@@ -7,7 +7,7 @@ In this paper, we propose a novel partition algorithm, named, CPBT to balance th
 This project extends state-of-the-art distributed graph processing system Gemini [OSDI 2016] and replaces its preprocessing(core/graph.hpp).
 Hence, to compile and run EndGraph, you should follow the compile struction in the following readme of Gemini.
 
-##Reference:
+## Reference:
 Tianfeng Liu, Dan Li
 
 EndGraph: An Efficient Distributed Graph Preprocessing System (ICDCS 2022)
